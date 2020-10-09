@@ -1,0 +1,415 @@
+[
+  {
+    "name": "Brick",
+    "price": "6.5",
+    "discount": "0.5",
+    "description": "Red soil brick achieve 25N strength of wall",
+    "image": "img6460791596446784.jfif"
+  },
+  {
+    "name": "M Sand",
+    "price": "3200/brass",
+    "discount": "200/brass",
+    "description": "Very useful for plastering and concreting",
+    "image": "img9107971596464645.jpeg"
+  },
+  {
+    "name": "Aggregate",
+    "price": "2200/brass",
+    "discount": "200/brass",
+    "description": "Basalt stone aggregates give high strength\n                              Available 24/7",
+    "image": "img2725221596464699.jpeg"
+  },
+  {
+    "name": "Aggregate",
+    "price": "2200 ",
+    "discount": "200",
+    "description": "All types of aggregates are available",
+    "image": "img7170761596464738.jpeg"
+  },
+  {
+    "name": "Malabad tile",
+    "price": "1400/brass",
+    "discount": "200",
+    "description": "Best shadow tiles made with red soil",
+    "image": "img6953941596464847.jpg"
+  },
+  {
+    "name": "Water cock",
+    "price": "200",
+    "discount": "40",
+    "description": "Stenless steel water cock long durable",
+    "image": "img4657691596464895.jpg"
+  },
+  {
+    "name": "Brass water cock",
+    "price": "240",
+    "discount": "50",
+    "description": "Good pressure maintained stenless steel water cock",
+    "image": "img9393131596464936.jpg"
+  },
+  {
+    "name": "Water cock",
+    "price": "250",
+    "discount": "40",
+    "description": "Curved water cock maintain high pressure made with pure stenless steel",
+    "image": "img3251771596464984.jpg"
+  },
+  {
+    "name": "Ceiling fan ",
+    "price": "1600",
+    "discount": "200",
+    "description": "High speed fan take more catchment area ",
+    "image": "img8146151596465030.jpeg"
+  },
+  {
+    "name": "Ceiling fan",
+    "price": "2200 ",
+    "discount": "500",
+    "description": "Antibacterial ceiling fan with light",
+    "image": "img630551596465067.jpeg"
+  },
+  {
+    "name": "Light fan ",
+    "price": "2500",
+    "discount": "200",
+    "description": "Gorgeous lighting in night make colourful joy ",
+    "image": "img1925341596465223.jpeg"
+  },
+  {
+    "name": "Window",
+    "price": "2200 ",
+    "discount": "200",
+    "description": "Two leaf windows makes more comfortable in bedroom",
+    "image": "img533231596465264.jpeg"
+  },
+  {
+    "name": "Door",
+    "price": "2200 ",
+    "discount": "500",
+    "description": "High quality wooden door with water proof layar thickness 15mm",
+    "image": "img3096661596465391.jpeg"
+  },
+  {
+    "name": "Red stone",
+    "price": "15/stone",
+    "discount": "1/stone",
+    "description": "Good looking stone for low cost housing",
+    "image": "img3690691596465545.jpg"
+  },
+  {
+    "name": "Sand stone",
+    "price": "60000/load",
+    "discount": "5000/load ",
+    "description": "A very good appearance hardly used",
+    "image": "img4701641596465579.jpg"
+  },
+  {
+    "name": "Gneiss stone",
+    "price": "22000",
+    "discount": "5000",
+    "description": "For external wall and porch construction these stones are used . (available)",
+    "image": "img8373051596465658.jpg"
+  },
+  {
+    "name": "Residential Bangalow",
+    "price": "1.5cr",
+    "discount": "0.15cr",
+    "description": "A Galaxy Bangalow preferred master bedrooms biggest hall and convenient porch",
+    "image": "img7084151596465758.jpg"
+  },
+  {
+    "name": "1bhk plan",
+    "price": "30lac",
+    "discount": "2lac",
+    "description": "1bkh bangalow preferred for single family",
+    "image": "img574121596465825.jpeg"
+  },
+  {
+    "name": "Apartment building",
+    "price": "1.6/flat",
+    "discount": "0.1/flat",
+    "description": "A residential apartment building having number of floors and separate 2bhk flats.",
+    "image": "img6393631596466031.jpg"
+  },
+  {
+    "name": "Interior design",
+    "price": "60000",
+    "discount": "5000",
+    "description": "A good appearance form interior design",
+    "image": "img6138771596466097.jpg"
+  },
+  {
+    "name": "Interior design",
+    "price": "60000",
+    "discount": "5000",
+    "description": "Interior design for hall",
+    "image": "img3053911596466217.jpg"
+  },
+  {
+    "name": "Interior design",
+    "price": "70000",
+    "discount": "5000",
+    "description": "Interior design for bedrooms",
+    "image": "img4277871596466354.jpg"
+  },
+  {
+    "name": "Hall Interior design ",
+    "price": "10000",
+    "discount": "5000",
+    "description": "Hall interior for healthy living",
+    "image": "img7992451596466429.jpg"
+  },
+  {
+    "name": "Kitchen Interior design",
+    "price": "100000",
+    "discount": "5000",
+    "description": "Better excess in kitchen and good appearance\n",
+    "image": "img9546111596466489.jpg"
+  },
+  {
+    "name": "Interior design",
+    "price": "90000",
+    "discount": "5000",
+    "description": "Hall interior design ",
+    "image": "img6922511596466572.jpg"
+  },
+  {
+    "name": "Interior design",
+    "price": "150000",
+    "discount": "5000",
+    "description": "Hall interior design",
+    "image": "img4833061596466666.jpg"
+  },
+  {
+    "name": "NA plots",
+    "price": "18lac/gunta",
+    "discount": "150000",
+    "description": "Na plots for dream Homes",
+    "image": "img68821596466993.jpeg"
+  },
+  {
+    "name": "NA Plots",
+    "price": "180000",
+    "discount": "200000",
+    "description": "Top high RL plots with city high tech area",
+    "image": "img118001596515759.jpeg"
+  },
+  {
+    "name": "Rental Residential Bangalow",
+    "price": "30000/month",
+    "discount": "25000/month",
+    "description": "A good rental home from crowd in clear weather from traffic",
+    "image": "img9781741596515682.jpg"
+  },
+  {
+    "name": "2bhk rental homes",
+    "price": "22000",
+    "discount": "2000",
+    "description": "Monthly rent must be paid advance will taken",
+    "image": "img8170851596470554.jpg"
+  },
+  {
+    "name": "Moll design ",
+    "price": "10/sqft",
+    "discount": "2/sqft",
+    "description": "All types of creative designs are made by designer ",
+    "image": "img2690531596470723.jpg"
+  },
+  {
+    "name": "2bhk bangalow",
+    "price": "2.3cr",
+    "discount": "150000",
+    "description": "Gorgeous galaxy bangalow ",
+    "image": "img4453781596470785.jpg"
+  },
+  {
+    "name": "Moll ",
+    "price": "12cr",
+    "discount": "1.35cr",
+    "description": "High-tech city Galaxy moll",
+    "image": "img8437791596470832.jpg"
+  },
+  {
+    "name": "Design and construction of Commercial buildings",
+    "price": "25000/sqft",
+    "discount": "2000/sqft",
+    "description": "All types creative design and construction are available",
+    "image": "img8602301596470879.jpg"
+  },
+  {
+    "name": "Residential Bangalow",
+    "price": "1.2cr",
+    "discount": "5lac",
+    "description": "Residential bangalow are constructed with creative design appearance",
+    "image": "img611431596471187.jpg"
+  },
+  {
+    "name": "Moll",
+    "price": "25000/sqft",
+    "discount": "2000/sqft",
+    "description": "Attractive molls design are available and construction",
+    "image": "img5452221596471140.jpg"
+  },
+  {
+    "name": "Hospital building",
+    "price": "3000/sqft",
+    "discount": "2000/sqft",
+    "description": "All types of hospital design and construction\n24/7 services are available",
+    "image": "img331371596471043.jpg"
+  },
+  {
+    "name": "Official building",
+    "price": "3000/sqft",
+    "discount": "2000/sqft",
+    "description": "All types of construction and design will made in civilize hub",
+    "image": "img6179551596470972.jpg"
+  },
+  {
+    "name": " Company building",
+    "price": "3000/sqft",
+    "discount": "2000/sqft",
+    "description": "All types of companies buildings construction services give civilize hub",
+    "image": "img3792701596470915.jpg"
+  },
+  {
+    "name": "Company building",
+    "price": "3300/sqft",
+    "discount": "400/sqft",
+    "description": "Multinational Companies construction and design services",
+    "image": "img6369451596514106.jpg"
+  },
+  {
+    "name": "University building",
+    "price": "3400/sqft",
+    "discount": "500/sqft",
+    "description": "All types of educational building design and construction services",
+    "image": "img6434471596514337.jpg"
+  },
+  {
+    "name": "School building",
+    "price": "3300/sqft",
+    "discount": "300/sqft",
+    "description": "All types of school buildings design and construction services",
+    "image": "img986271596514403.jpg"
+  },
+  {
+    "name": "Lochal building",
+    "price": "3500/sqft",
+    "discount": "200/sqft",
+    "description": "All types of lochal design and construction services",
+    "image": "img3832811596514469.jpg"
+  },
+  {
+    "name": "ACC Cement",
+    "price": "300",
+    "discount": "30",
+    "description": "Used High quality construction achieve required strength",
+    "image": "img3028961596514516.jpeg"
+  },
+  {
+    "name": "ACC Cement",
+    "price": "300",
+    "discount": "20",
+    "description": "Used for Superfast construction for foundation and columns",
+    "image": "img9262811596513870.jpeg"
+  },
+  {
+    "name": "Ambuja cement",
+    "price": "300",
+    "discount": "50",
+    "description": "Used For standard construction",
+    "image": "img4282421596514544.jpeg"
+  },
+  {
+    "name": "Altratech cement",
+    "price": "300",
+    "discount": "40",
+    "description": "All cement bags are available",
+    "image": "img4279851596514560.jpeg"
+  },
+  {
+    "name": "Cement",
+    "price": "350",
+    "discount": "20",
+    "description": "All types of cement bags are available",
+    "image": "img6140051596514575.jpeg"
+  },
+  {
+    "name": "Marine homes",
+    "price": "1.3cr",
+    "discount": "5lac",
+    "description": "All types Marine homes construction services",
+    "image": "img734131596514636.jpg"
+  },
+  {
+    "name": "Private bangalow",
+    "price": "3300",
+    "discount": "300",
+    "description": "All Private bangalow design and construction services",
+    "image": "img171941596514746.jpg"
+  },
+  {
+    "name": "Interior painting",
+    "price": "100",
+    "discount": "20",
+    "description": "Texture paint ranges from 75-150rupes",
+    "image": "img7136111596515476.jpeg"
+  },
+  {
+    "name": "Interior POP",
+    "price": "100",
+    "discount": "20",
+    "description": "All types of creative designs are available for all rooms ceilings",
+    "image": "img3856051596517383.jpeg"
+  },
+  {
+    "name": "Interior POP",
+    "price": "100",
+    "discount": "20",
+    "description": "All types of creative designs are available for all rooms ceilings",
+    "image": "img1304581596517415.jpeg"
+  },
+  {
+    "name": "Hall Interior ceiling design ",
+    "price": "100/sqft",
+    "discount": "20/sqft",
+    "description": "All types of hall ceiling design are available ",
+    "image": "img4830211596517735.jpeg"
+  },
+  {
+    "name": "Hall Interior ceiling design ",
+    "price": "100/sqft",
+    "discount": "20/sqft",
+    "description": "All types of bedrooms ceiling design are available ",
+    "image": "img9946021596517760.jpeg"
+  },
+  {
+    "name": "Hall Interior ceiling design ",
+    "price": "100/sqft",
+    "discount": "20/sqft",
+    "description": "All types of hall ceiling design are available ",
+    "image": "img7717071596517788.jpeg"
+  },
+  {
+    "name": "Get workers/helpers",
+    "price": "700/day",
+    "discount": "50/day",
+    "description": "All types of work will accepted, anywhere in country.",
+    "image": "img3083271596518370.jpg"
+  },
+  {
+    "name": "Get workers/helpers",
+    "price": "700/day",
+    "discount": "50/day",
+    "description": "All types of work will accepted, anywhere in country.",
+    "image": "img9520471596518386.png"
+  },
+  {
+    "name": "Get workers/helpers",
+    "price": "700/day",
+    "discount": "50/day",
+    "description": "All types of work will accepted, anywhere in country,as per the work rate will be defined.",
+    "image": "img1101551596518432.jpg"
+  }
+]

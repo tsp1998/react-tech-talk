@@ -1,0 +1,5 @@
+export const SET_USER = 'SET_USER';
+export const SET_USER_LOGGED_IN = 'SET_USER_LOGGED_IN';
+export const FETCH_USER_START = 'FETCH_USER_START';
+export const FETCH_USER_SUCCESS = 'FETCH_USER_SUCCESS';
+export const FETCH_USER_FAIL = 'FETCH_USER_FAIL';
